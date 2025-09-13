@@ -1,6 +1,10 @@
 {
+  "/api/auction/[id]/bid/route": "app/api/auction/[id]/bid/route.js",
+  "/api/auction/[id]/route": "app/api/auction/[id]/route.js",
+  "/api/auction/[id]/toggle/route": "app/api/auction/[id]/toggle/route.js",
+  "/api/auction/route": "app/api/auction/route.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
   "/page": "app/page.js",
-  "/donate/page": "app/donate/page.js",
-  "/admin/page": "app/admin/page.js"
+  "/donate/page": "app/donate/page.js"
 }
